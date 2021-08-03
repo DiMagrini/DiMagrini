@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego Magrini.
 - 👀 I’m interested in a lot of things from cars to astronomy and, of course, programming and coding.
-- 🌱 I’m currently learning Python and its frameworks for, being a machine learning engineer in the feature.
+- 🌱 I’m currently learning Python and its frameworks for becoming a machine learning engineer.
 - 💞️ I’m looking to collaborate on a developer team to increase my skills.
 - 📫 You can reach me on my LinkeIn: https://www.linkedin.com/in/diego-magrini/
 
